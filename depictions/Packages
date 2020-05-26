@@ -1,0 +1,30 @@
+Package: com.atebit.softie
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: @emnlcx <1emmanuelct@gmail.com>
+Filename: ./debs/com.atebit.softie.deb
+Size: 357526
+MD5sum: 3915f5a59987ab606bada1b2e0ab1b92
+SHA1: dec9e8e2bdc2f186950d9a1ffb67c158d828998a
+SHA256: 0f1cab24537be90121adcf544b086f2775958246401a6a0ac3609f6ae79ece5c
+Section: Themes
+Description: Softie
+Author: Emmanuel (@emnlcx)
+Depiction: 
+Name: Softie
+
+Package: com.ramenrepo.limelight
+Version: 1.9.6
+Architecture: iphoneos-arm
+Maintainer: ty_ph <tylerpharand@gmail.com>
+Filename: ./debs/com.ramenrepo.limelight.deb
+Size: 32635136
+MD5sum: 1bcf2bf31a598a61e46676a5916f1644
+SHA1: 4b7a88889af6cdd095ad1bbc16ad3dbf63b07501
+SHA256: 8614886ad5ab30cf5448bb3fc14a935d1b80a963ea9597d101276c19915e008b
+Section: Themes
+Homepage: ramenrepo.github.io
+Description: Colorful glyphs for anemone
+Author: ty_ph <tylerpharand@gmail.com>
+Depiction: https://ramenrepo.github.io/depictions/?p=com.ramenrepo.limelight
+Name: Limelight
